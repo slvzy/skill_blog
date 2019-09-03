@@ -34,8 +34,8 @@ go install github.com/bobacsmall/skill_blog
 ```
 go build main.go
 ```
-
-Note: 需要安装mysql redis 具体安装参照[redis](https://redis.io/)  [mysql](https://www.mysql.com/downloads/) 
+- 端口查看config.ini
+- 依赖: 需要安装mysql redis 具体安装参照[redis](https://redis.io/)  [mysql](https://www.mysql.com/downloads/) 
 
 ### 目录结构
 ```
